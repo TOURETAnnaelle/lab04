@@ -1,0 +1,17 @@
+
+body { 
+    background-color : red 
+}
+h1 {
+     background-color : blue ; color : green 
+    }
+.first { 
+    background-color : orange ; color : teal 
+}
+.second { 
+    background-color : green ; color : yellow 
+}
+#important 
+{ background-color : black ;
+     color : red 
+    }
